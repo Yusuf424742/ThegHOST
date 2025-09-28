@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://poe823pn36vl"
+path="res://.godot/imported/ilk zindan.dialogue-48780db3ac25fd4cdd5ed1bfc11e149b.tres"
+
+[deps]
+
+source_file="res://ilk zindan.dialogue"
+dest_files=["res://.godot/imported/ilk zindan.dialogue-48780db3ac25fd4cdd5ed1bfc11e149b.tres"]
+
+[params]
+
+defaults=true
